@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Build-Week-School-in-the-Cloud-Track/back-end.git"
+    "url": "git+https://github.com/school-in-the-cloud-tt31/back-end.git/"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Build-Week-School-in-the-Cloud-Track/back-end/issues"
+    "url": "https://github.com/school-in-the-cloud-tt31/back-end.git//issues"
   },
-  "homepage": "https://github.com/Build-Week-School-in-the-Cloud-Track/back-end#readme",
+  "homepage": "https://github.com/school-in-the-cloud-tt31/back-end.git/#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "cors": "^2.8.5",
